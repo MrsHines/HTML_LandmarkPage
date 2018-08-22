@@ -1,5 +1,5 @@
 # HTML_LandmarkPage
-Create an information webpage for a national landmark
+Create an information webpage for a national landmark.
 
 Assignment Details:
 
